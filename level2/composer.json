@@ -1,0 +1,15 @@
+{
+    "name": "vanex/level2",
+    "autoload": {
+        "psr-4": {
+            "Vanex\\Level2\\": "api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vanex97",
+            "email": "vanex97@gmail.com"
+        }
+    ],
+    "require": {}
+}
